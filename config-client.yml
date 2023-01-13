@@ -24,7 +24,7 @@ server:
 spring:
   profiles: test
   application:
-    name: springcloud-config-client-test
+    name: springcloud-config-client-Bitch-test
 
 #Eureka的配置。 服务注册到Eureka中，需要一个路径地址
 eureka:
