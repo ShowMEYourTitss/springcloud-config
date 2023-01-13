@@ -1,7 +1,7 @@
 #启动环境选择的配置
 spring:
   profiles:
-    active: dev
+    active: dev2
 
 #springboot启动多环境的配置
 ---
